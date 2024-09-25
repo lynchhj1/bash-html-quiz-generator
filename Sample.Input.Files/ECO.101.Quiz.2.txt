@@ -1,0 +1,125 @@
+q:Profit is the payment made for land resources.
+w:True
+x:False
+q:Exhibit 2.7
+i:exibit.2.7.jpg
+l:Refer to Exhibit 2.7, which shows the production possibilities frontier for capital goods and consumer goods. Identify the correct statement.
+w:If the economy is initially at point c, an increase in capital stock will lead to a movement to point b. 
+w:If the economy is initially at point b, an increase in capital stock will lead to a movement to point c.
+w:Economic growth will allow the economy to produce at a point that lies on a lower production possibilities frontier.
+w:If the economy is initially at point a, an improvement in the rules of the game will lead to a movement to point c.
+x:Economic growth will allow the economy to produce at a point that lies on a higher production possibilities frontier.
+q:Exhibit 2.2
+i:exibit.2.2.jpg
+l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If given the quantity of resources and level of technology, which of the following points is unattainable?
+x:e
+w:g
+w:h
+w:b
+w:I
+q:In economics, capital is defined as _____
+w:the willingness of business owners to take risks.
+w:the money exchanged in the underground economy.
+w:the number of people in the labor force.
+w:natural resources, such as water, oil, and iron ore.
+x:all human creations used to produce goods and services.
+q:Opportunity costs exist because _____
+w:the value of lost opportunities varies.
+w:technology is fixed.
+w:efficiency is measured by the monetary cost of an activity
+w:of comparative advantage.
+x:resources are scarce but wants are unlimited.
+q:A country has an absolute advantage in the production of a good if that country _____
+x:can produce the good using fewer resources than another country would require.
+w:has the lowest opportunity cost of producing the good, regardless of whether it is produced using the fewest resources.
+w:has the greatest opportunity cost of producing the good, regardless of whether it is produced using the fewest resources.
+w:has the lowest opportunity cost of producing the good and can sell it at the highest price.
+w:has the greatest opportunity cost of producing the good and can sell it at the highest price.
+q:Hans can do 4 loads of laundry or type 6 pages in an hour. Heidi can do 12 loads of laundry or type 8 pages in an hour. Which of the following is correct?
+w:Hans has an absolute advantage in doing laundry.
+x:Heidi has both an absolute and a comparative advantage in doing laundry.
+w:Heidi has both an absolute and a comparative advantage in typing.
+w:Heidi has a comparative advantage in both typing and doing laundry.
+w:Hans has both an absolute and a comparative advantage in typing.
+q:Exhibit 2.2
+i:exibit.2.2.jpg
+l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. When moving from point f to point g, the production of _____
+x:Good B increases and the production of Good A decreases.
+w:both Good A and Good B decreases.
+w:both Good A and Good B increases.
+w:Good A increases without a change in the production of Good B.
+w:Good B increases without a change in the production of Good A.
+Resources can be divided into _____
+w:savings, spending, investment, and capital.
+w:income, interest, and expenditure.
+w:people, money, and machines.
+w:human resources, technology, and government.
+x:natural resources, labor, capital, and entrepreneurial ability.
+q:Hans can do 4 loads of laundry and type 6 pages per hour. Heidi can do 12 loads of laundry and type 8 pages per hour. Hans’s opportunity cost of doing one load of laundry is _____
+x:equal to typing 1 1/2 pages.
+w:equal to typing 12 papers.
+w:equal to typing 2/3 of a page.
+w:equal to typing 8 papers.
+w:impossible to compute without additional information.
+q:Entrepreneurial ability is rewarded by _____
+w:dividends.
+w:rent.
+w:interest.
+x:profit.
+w:wages.
+q:Exhibit 2.2
+i:exibit.2.2.jpg
+l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If all of the economy's resources are used efficiently to produce only Good B, then the economy will be at point _____.
+w:i
+x:g
+w:b
+w:h
+w:e
+q:In one week, Sami can knit 5 sweaters or bake 240 cookies. In one week, Leila can knit 15 sweaters or bake 480 cookies. Which of the following is correct?
+w:Leila has an absolute and a comparative advantage in both tasks.
+w:Sami has an absolute and a comparative advantage in both tasks.
+x:Leila has an absolute advantage in both tasks and a comparative advantage in knitting sweaters.
+w:Sami has an absolute advantage in both tasks and a comparative advantage in baking cookies.
+w:Sami has an absolute advantage in both tasks and a comparative advantage in knitting sweaters.
+q:Rent is the payment received by resource owners for the use of their natural resources.
+x:True
+w:False
+q:Exhibit 2.2
+i:exibit.2.2.jpg
+l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If all of the economy's resources are used efficiently to produce only Good A, then the economy will be at point _____.
+w:e
+w:b
+x:i
+w:h
+w:g
+q:An entrepreneur is _____
+w:a person who is hired by a firm to manage its operations.
+w:a person who is appointed by the board of directors of a firm for a term of five years.
+w:a person who earns profit without accepting any risks.
+x:an organizer who seeks profitable opportunities and is willing to accept risks.
+w:an individual who has an education.
+q:Hans can do 4 loads of laundry and type 6 pages per hour. Heidi can do 12 loads of laundry and type 8 pages per hour. Heidi’s opportunity cost of doing one load of laundry is _____
+w:equal to typing 6 pages.
+w:impossible to compute without additional information.
+w:equal to typing 4 pages.
+x:equal to typing 2/3 of a page.
+w:equal to typing 3/2 of a page.
+q:Exhibit 2.2
+i:exibit.2.2.jpg
+l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. Which of the following points represents an inefficient use of the economy’s resources?
+x:f
+w:d
+w:e
+w:h
+w:i
+q:An economist would classify 100 shares of Apple Computers as capital.
+w:True
+x:False
+q:Exhibit 2.2
+i:exibit.2.2.jpg
+l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If resources are used fully and efficiently, then the economy can produce at point(s) _____
+w:a or b
+w:f
+w:d or e
+x:g, h, or i
+w:c
