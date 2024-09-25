@@ -1,0 +1,60 @@
+q:Porter's five forces model is used to assess ________.
+w:internal competition
+w:future product demand
+w:market share
+x:industry structure
+w:life cycles of products
+q:The automobile industry is characterized by many manufacturers and intense competition among them. According to Porter's five forces model, this statement illustrates ________.
+x:high levels of rivalry
+w:low threat of substitutions
+w:low bargaining power of customers
+w:low levels of rivalry
+w:high bargaining power of suppliers
+q:According to Porter's five forces model, a student's choice of lunch options at a large food court would be an example of a strong force for ________.
+w:rivalry
+x:threat of substitutions
+w:industry power
+w:threat of new entrants
+w:bargaining power of customers
+q:Competitive strategy determines all of the following except ________.
+w:goals and objectives
+w:structure of the information system
+w:features
+w:functions
+x:the company's PE ratio
+q:A(n) ________ is a network of activities that generate worth by transforming inputs into outputs.
+w:information system
+w:value chain
+w:competitive strategy
+w:linked investment
+x:business process
+q:Which of the following could be a result of changing business processes.
+x:Employees may have to learn a new procedure.
+w:Satisfied employees because many embrace changes.
+w:The reuse of databases.
+w:A new way of performing activities is encouraging to employees.
+w:Returning customers because the new process improves communication.
+q:Porter defined value as the ________.
+w:actual money exchanged in return of a product/service
+w:extent of after-sale service provided to customers
+x:amount of money that a customer is willing to pay for an offering
+w:perceived quality differences across products
+w:perceived satisfaction of the customers and sellers after a transaction
+q:The difference between the value that an activity generates and the cost of the activity is called the ________.
+x:margin
+w:turnover
+w:quick ratio
+w:revenue
+w:profit 
+q:Which of the following is a primary activity in the value chain?
+x:receiving and handling of raw materials and other inputs
+w:finding suitable vendors to supply raw materials
+w:investigating new designs
+w:setting up contractual arrangements with various suppliers
+w:negotiating prices with vendors
+q:Reduction in production cost results in ________.
+x:increased profitability
+w:better customer service
+w:lower shareholder value
+w:increased competition
+w:increased process complexity

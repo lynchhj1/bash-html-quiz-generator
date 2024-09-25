@@ -1,0 +1,60 @@
+q:A set of procedures used to solve mathematical problems is called ________.
+w:a flowchart
+w:a process
+x:an algorithm
+w:a set of procedures
+w:a metadata
+q:A(n) ________ is a computing system modelled after the human brain that is used to predict values and make classifications.
+x:neural network
+w:data warehouse
+w:expert system
+w:artificial intelligence
+w:online analytical processing (OLAP) cube
+q:AI-enabled machines need humans because they lack ________.
+w:the ability to think like humans
+w:sensitivity
+x:instincts
+w:oil
+w:the ability to perform routine tasks
+q:How do machines learn?
+w:By listening to the surroundings
+w:By listening for a wake word
+w:With repetition of the same facts
+x:Through experience
+w:By humans teaching them things
+q:What may happen if an organization chooses to say no to artificial intelligence (AI)?
+x:The organization may lose a competitive advantage.
+w:The organization will shut down.
+w:The government may force an organization to adopt AI.
+w:It will be more expensive to do business.
+w:Workers may quit.
+q:Which of the following is a characteristic of BigData?
+w:It is processed using traditional techniques.
+w:It is unstructured.
+w:It is usually around 100 gigabytes in size.
+x:It is generated rapidly.
+w:It is typically only text-based.
+q:________ is data in the form of rows and columns?
+w:A server log
+w:Coalescing
+w:Analysis
+x:Structured data
+w:Filtered
+q:________ is the application of statistical techniques to find patterns and relationships among data for classification and prediction.
+w:Database normalization
+x:Data mining
+w:Data warehousing
+w:Data clustering
+w:Data optimization
+q:________ is the extraction of knowledge from data based on algorithms created from training data.
+w:Simulation
+x:Machine learning
+w:Processing data
+w:Computer analysis
+w:Historical analysis
+q:________ is the process of creating value from intellectual capital and sharing that knowledge with employees, managers, suppliers, customers, and others who need it.
+w:Repository management
+w:Industrial information exchange
+x:Knowledge management
+w:Intellectual property protection
+w:Business process reengineering
