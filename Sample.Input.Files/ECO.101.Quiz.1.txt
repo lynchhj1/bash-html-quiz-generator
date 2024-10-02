@@ -1,0 +1,84 @@
+q:All economic models must involve simplifications because _____
+w:human behavior is very erratic and unpredictable.
+x:reality is too complex to understand in its entirety, so we must reduce the complexity to a level that we can understand.
+w:economists would be unable to command high salaries if their models were too simple.
+w:economists try to cover all the possible variables.
+w:we must ignore complexity.
+q:Economists generally believe that _____
+w:a. a rational individual will pursue an activity if the total cost of the activity is more than the total benefit from it.
+w:b. decision makers never make mistakes.
+x:a rational individual will pursue an activity if the total benefit of the activity is more than the total cost of the activity.
+w:d. economic decisions result from random behavior.
+w:e. a rational individual will pursue an activity if the average cost of the activity is equal to the total benefit from it.
+q:Which of the following is a normative economic statement?
+Selected Answer: 	
+c. Congress must recognize that the growing national debt is the most serious problem that the country faces.
+w:The unemployment rate among teenagers is higher than the rate among adults.
+w:The unemployment rate increases when the percentage of the labor force without jobs increases.
+x:Congress must recognize that the growing national debt is the most serious problem that the country faces.
+w:The U.S. rate of unemployment was lower in 2004 than it was in 1994.
+w:Savings accounts earn interest, whereas checking accounts do not.
+q:The ceteris paribus assumption is the other-things-constant assumption.
+x:True
+w:False
+q:As a scientist, an economist's main professional objective is to become wealthy.
+w:True
+x:False
+q:Your best friend buys you lunch on your birthday. You think this was not a free lunch because _____
+x:the resources used to produce the lunch were not available to satisfy other wants.
+w:you can eat only if you work out first.
+w:even if you didn’t pay in dollars for it, you paid for it in extra calories.
+w:neither sea water nor air is free.
+w:you disagree with the expression "the best things in life are free."
+q:Microeconomics is the study of _____
+x:the economic behavior of individual decision makers.
+w:the government's role as a distributor in an economy.
+w:the government's role as a producer in an economy.
+w:the effect of an increase in money supply on interest rates.
+w:the effect of an increase in interest rates on the level of investment in an economy.
+q:Economics is best defined as the study of how _____
+d. people make decisions in a world of scarcity.
+w:governments can influence the social structure.
+w:to change the class structure of an economy.
+w:to separate the executive from the legislature and the judiciary.
+x:people make decisions in a world of scarcity.
+w:individuals can participate in electing their representatives to the government.
+q:By rational, economists mean that people _____
+w:try to maximize the cost of achieving a benefit.
+x:try to make the best choices they can.
+w:know with certainty which alternative will turn out to be the best.
+w:try to minimize the expected benefit achieved.
+w:think only of themselves.
+q:Which of the following would be a topic considered in the field of macroeconomics?
+w:The study of the causes of the relocation of U.S. manufacturing firms to China
+w:The study of the differences in wages between men and women in the United States
+w:The study of the effect of rent control on the housing market in New York City
+w:The study of the impact of environmental regulations on the production levels of firms
+x:The study of the growth of the Chinese economy
+q:Macroeconomics is the study of _____
+x:the behavior of the economy as a whole.
+w:the profit-maximizing behavior of producers.
+w:the behavior of large firms in a market.
+w:how to use the least amount of natural resources to produce goods and services.
+w:utility-maximization by consumers.
+q:Economists believe that _____
+w:the notion of self-interest rules out concern for others.
+w:people who choose to promote the interests of others cannot be acting rationally.
+w:people show concern only for those whom they know personally.
+w:charitable donations would disappear if tax deductions for charitable giving were eliminated.
+x:concern for the welfare of others is consistent with the concept of self-interest.
+q:Scarcity occurs when the amount people desire is less than the amount available at a zero price.
+w:True
+x:False
+q:The difference between positive economic statements and normative economic statements is that _____
+w:positive statements are based on opinion, while normative statements are always true.
+w:positive statements are based on opinion, while normative statements are based on fact.
+w:positive statements are true and normative statements are often false.
+w:positive statements are often false and normative statements are true.
+x:positive statements are based on fact, while normative statements are based on opinion.
+q:A rational decision maker will take only those actions for which the expected marginal benefit _____
+w:is at its maximum level.
+x:is greater than or equal to the expected marginal cost.
+w:is positive.
+w:exactly equals the total cost.
+w:is less than the expected marginal cost.

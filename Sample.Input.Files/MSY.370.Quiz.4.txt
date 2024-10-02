@@ -1,0 +1,60 @@
+q:A ________ is also called "the brain" of the computer.
+w:thumb drive
+w:CMOS
+w:motherboard
+w:network card
+x:central processing unit
+q:A(n)________ is an example of storage hardware in computers.
+w:wireless mouse
+w:overhead projector
+w:keyboard
+w:barcode scanner
+x:magnetic disk
+q:All of the following contributed to making a mobile phone "smart" except ________.
+w:the Internet of Things
+w:more processing power
+x:bigger screens
+w:Wi-Fi connectivity
+w:Internet access
+q:Bits are used for computer data because they ________.
+w:represent the orientation of a nonoptical media
+x:are easy to represent physically
+w:have an infinite number of states
+w:are represented exclusively as letters of the alphabet
+w:can have more than two values at a time
+q:Bits are grouped into 8-bit chunks called ________.
+w:switches
+w:kilobytes
+w:nibbles
+x:bytes
+w:strings
+q:A ________ is equivalent to 1,024 kilobytes.
+x:megabyte
+w:gigabyte
+w:terabyte
+w:zettabyte
+w:kilobyte
+q:Virtualization is the process by which ________.
+w:many computers are used to control a server
+w:a single operating system is licensed for multiple computers
+w:a single operating system is shared by multiple users.
+w:a single server is used to host the operations of a workstation
+x:one physical computer hosts many different virtual computers within it
+q:Web applications are typically limited by the capabilities of the ________.
+w:programming language
+w:hardware
+w:motherboard
+x:browser
+w:operating system
+q:Which of the following is a characteristic of volatile memory?
+w:Files are stored permanently.
+w:Processing of data is very slow.
+x:Contents are lost when power is off.
+w:Processor heats up during the operation.
+w:It should be purged at least once a year.
+q:Which of the following operating systems is used by Apple?
+x:iOS
+w:Android
+w:Symbian
+w:Windows OS
+w:AIX

@@ -2,7 +2,7 @@ q:Profit is the payment made for land resources.
 w:True
 x:False
 q:Exhibit 2.7
-i:exibit.2.7.jpg
+i:ch2.exibit.2.7.jpg
 l:Refer to Exhibit 2.7, which shows the production possibilities frontier for capital goods and consumer goods. Identify the correct statement.
 w:If the economy is initially at point c, an increase in capital stock will lead to a movement to point b. 
 w:If the economy is initially at point b, an increase in capital stock will lead to a movement to point c.
@@ -10,7 +10,7 @@ w:Economic growth will allow the economy to produce at a point that lies on a lo
 w:If the economy is initially at point a, an improvement in the rules of the game will lead to a movement to point c.
 x:Economic growth will allow the economy to produce at a point that lies on a higher production possibilities frontier.
 q:Exhibit 2.2
-i:exibit.2.2.jpg
+i:ch2.exibit.2.2.jpg
 l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If given the quantity of resources and level of technology, which of the following points is unattainable?
 x:e
 w:g
@@ -42,7 +42,7 @@ w:Heidi has both an absolute and a comparative advantage in typing.
 w:Heidi has a comparative advantage in both typing and doing laundry.
 w:Hans has both an absolute and a comparative advantage in typing.
 q:Exhibit 2.2
-i:exibit.2.2.jpg
+i:ch2.exibit.2.2.jpg
 l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. When moving from point f to point g, the production of _____
 x:Good B increases and the production of Good A decreases.
 w:both Good A and Good B decreases.
@@ -68,7 +68,7 @@ w:interest.
 x:profit.
 w:wages.
 q:Exhibit 2.2
-i:exibit.2.2.jpg
+i:ch2.exibit.2.2.jpg
 l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If all of the economy's resources are used efficiently to produce only Good B, then the economy will be at point _____.
 w:i
 x:g
@@ -85,7 +85,7 @@ q:Rent is the payment received by resource owners for the use of their natural r
 x:True
 w:False
 q:Exhibit 2.2
-i:exibit.2.2.jpg
+i:ch2.exibit.2.2.jpg
 l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If all of the economy's resources are used efficiently to produce only Good A, then the economy will be at point _____.
 w:e
 w:b
@@ -105,7 +105,7 @@ w:equal to typing 4 pages.
 x:equal to typing 2/3 of a page.
 w:equal to typing 3/2 of a page.
 q:Exhibit 2.2
-i:exibit.2.2.jpg
+i:ch2.exibit.2.2.jpg
 l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. Which of the following points represents an inefficient use of the economy’s resources?
 x:f
 w:d
@@ -116,7 +116,7 @@ q:An economist would classify 100 shares of Apple Computers as capital.
 w:True
 x:False
 q:Exhibit 2.2
-i:exibit.2.2.jpg
+i:ch2.exibit.2.2.jpg
 l:Refer to Exhibit 2.2, which shows the production possibilities frontier for Good A and Good B. If resources are used fully and efficiently, then the economy can produce at point(s) _____
 w:a or b
 w:f
