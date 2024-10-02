@@ -1,0 +1,140 @@
+q:Which of the following is most likely to be an inferior good?
+w:soft drinks
+w:airline travel
+x:used clothing
+w:restaurant meals
+w:a subscription to the Wall Street Journal
+q:A surplus of shoes will cause _____
+w:a decrease in the demand for shoes.
+w:a rightward shift of the supply curve of shoes.
+x:a decrease in the price of shoes.
+w:a decrease in the supply of shoes.
+w:an increase in the price of leather.
+q:Table 4.6
+i:ch3.table.4.6.jpg
+l:Refer to Table 4.6. In which of the following combinations is the change in the equilibrium quantity of a good indeterminate?
+x:Box B and Box C
+w:Box A and Box B
+w:Box A and Box C
+w:Box C and Box D
+w:Box A and Box D
+q:Exhibit 4.1
+i:ch3.exhibit.4.1.jpg
+l:Refer to Exhibit 4.1 for the demand curves of baby formula. Which of the following changes will be caused by the discovery that breast milk provides more protection against a life-threatening disease than baby formula?
+w:a movement from point b on the demand curve D1 to point c on the demand curve D2
+w:a movement along the demand curve D1 from point a to point b
+w:a movement along the demand curve D2 from point d to point c
+x:a shift of the demand curve from D2 to D1
+w:a shift of the demand curve from D1 to D2
+q:According to the law of supply, the quantity supplied is _____ related to price, other things constant.
+w:negatively
+w:indirectly
+w:inversely
+w:never
+x:directly
+q:Exhibit 4.1
+i:ch3.exhibit.4.1.jpg
+l:Refer to Exhibit 4.1 for the demand curves of baby formula. Which of the following changes is likely to be caused by an increase in the birth rate?
+w:a movement along the demand curve D1 from point a to point b
+x:a shift of the demand curve from D1 to D2
+w:a shift of the demand curve from D2 to D1
+w:a movement along the demand curve D2 from point d to point c
+w:a movement from point b on the demand curve D1 to point c on the demand curve D2
+q:Table 4.6
+i:ch3.table.4.6.jpg
+l:Refer to Table 4.6.  In which of the following combination does the equilibrium quantity increase?
+x:Box A
+w:Box D
+w:Box C
+w:Box B
+w:Equilibrium quantity does not increase in any combination.
+q:Suppose the market for a good is in equilibrium. Which of the following is most likely to occur if both the demand for and the supply of the good decrease during a particular point in time?
+x:The equilibrium quantity will decrease.
+w:The equilibrium price will increase.
+w:Both the equilibrium price and quantity will increase.
+w:The equilibrium quantity will increase.
+w:The equilibrium price will decrease.
+q:Suppose the market for wheat is initially in equilibrium. In which of the following situations will the equilibrium price of wheat increase and the change in the equilibrium quantity of wheat be indeterminate?
+w:if supply remains constant and demand rises
+w:if supply and demand both decline
+w:if supply rises and demand declines
+w:if supply and demand both rise
+x:if supply declines and demand rises
+q:If butter and margarine are substitute goods, an increase in the price of butter is most likely to _____
+w:increase the quantity of margarine demanded.
+w:shift the demand curve for margarine leftward.
+w:decrease the quantity of margarine demanded.
+w:decrease the price of margarine.
+x:shift the demand curve for margarine rightward.
+q:Exhibit 4.3
+i:ch3.exhibit.4.3.png
+l:Refer to Exhibit 4.3, which shows the supply curves of baby formula. Which of the following changes is likely to result from an increase in the number of firms producing baby formula?
+w:a movement from point a to point b on the supply curve S1
+w:a movement from point c to point d on the supply curve S2
+w:a movement from point b to point a on the supply curve S1
+w:a leftward shift of the supply curve from S2 to S1
+x:a rightward shift of the supply curve from S1 to S2
+q:Exhibit 4.3
+i:ch3.exhibit.4.3.png
+l:Refer to Exhibit 4.3, which shows the supply curves of baby formula. The development of a more efficient production technology for producing baby formula is likely to cause _____
+w:a movement from point c to point d on the supply curve S2.
+w:a movement from point b to point a on the supply curve S1.
+w:a movement from point a to point b on the supply curve S1.
+w:a leftward shift of the supply curve from S2 to S1.
+x:a rightward shift of the supply curve from S1 to S2.
+q:A movement along the demand curve for a good can be attributed to a change in _____
+x:the quantity demanded of the good.
+w:the income and preference of a consumer.
+w:the substitution effect of consuming the good.
+w:the demand for the good.
+w:the opportunity cost of producing the good.
+q:Table 4.6
+i:ch3.table.4.6.jpg
+l:Refer to Table 4.6. In which of the following combinations is the change in the equilibrium price of a good indeterminate?
+w:Box A and Box B
+w:Box B and Box C
+w:Box A and Box C
+x:Box A and Box D
+w:Box C and Box D
+q:Exhibit 4.3
+i:ch3.exhibit.4.3.png
+l:Refer to Exhibit 4.3, which shows the supply curves of baby formula. Which of the following is likely to result from an increase in the price of baby formula?
+w:a rightward shift of the supply curve from S1 to S2
+x:a movement from point a to point b on the supply curve S1
+w:a movement from point d to point c on the supply curve S2
+w:a movement from point b to point a on the supply curve S1
+w:a leftward shift of the supply curve from S2 to S1
+q:Exhibit 4.1
+i:ch3.exhibit.4.1.jpg
+l:Refer to Exhibit 4.1 for the demand curves of baby formula. Which of the following changes is likely to happen if the price of baby formula increases?
+w:a shift of the demand curve from D2 to D1
+w:a movement from point b on the demand curve D1 to point c on the demand curve D2
+w:a movement along the demand curve D1 from point a to point b
+w:a shift of the demand curve from D1 to D2
+x:a movement along the demand curve D2 from point d to point c
+q:Which of the following will cause a movement along the demand curve?
+w:consumer tastes
+x:a change in price
+w:the number or composition of consumers in the market
+w:the money income of consumers
+w:consumer expectations
+q:The market supply curve of a particular product indicates the total quantities _____
+w:that sellers are willing to offer for sale at a fixed price.
+w:that are actually sold during different time periods.
+x:that sellers are willing and able to offer at alternative prices.
+w:of complements offered for sale.
+w:that buyers are willing to purchase at alternative prices.
+q:A shortage of textbooks is most likely to cause _____
+x:an increase in the price of textbooks.
+w:a decrease in the price of paper.
+w:a decrease in the supply of textbooks.
+w:an increase in the cost of printing.
+w:a decrease in the demand for textbooks.
+q:Exhibit 4.1
+i:ch3.exhibit.4.1.jpg
+l:Refer to Exhibit 4.1 for the demand curves of baby formula. If baby formula is an inferior good, then an increase in consumer income is likely to cause which of the following changes?
+w:a shift of the demand curve from D1 to D2
+w:a movement along the demand curve D1 from point a to point b
+w:a movement along the demand curve D2 from point d to point c
+w:a movement from point b on the demand curve D1 to point c on the demand curve D2
+x:a shift of the demand curve from D2 to D1
