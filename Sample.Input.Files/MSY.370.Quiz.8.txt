@@ -1,0 +1,60 @@
+q:________ are formally defined, standardized processes that involve day-to-day operations.
+w:Unstructured processes
+w:Benchmarked processes
+w:Kinetic processes
+x:Structured processes
+w:Dynamic processes
+q:________ are flexible, informal, and adaptive processes that normally involve strategic and less structured managerial decisions and activities.
+w:Structured processes
+w:Operational processes
+w:Malleable processes
+x:Dynamic processes
+w:Inherent processes
+q:The two dimensions of process quality are ________.
+w:performance and reliability
+w:ease of use and usability
+w:conformance and durability
+w:perception and serviceability
+x:efficiency and effectiveness
+q:Process ________ is a measure of how well a process achieves organizational strategy.
+x:effectiveness
+w:reliability
+w:conformance
+w:adeptness
+w:efficiency
+q:Dollar Bill Supermarket is one of the best in the city. However, shoppers prefer other supermarkets to it as there is always a long queue at the billing counter. The outdated billing registers make the entire process inefficient. Which of the following steps should the supermarket management take to improve the billing process?
+x:change process resources
+w:change the process structure
+w:change the process requirements
+w:limit the number of products customers can buy
+w:limit the number of customers in the supermarket
+q:________ is a suite of applications called modules, a database, and a set of inherent processes for consolidating business operations into a single, consistent, computing platform.
+w:Business process reengineering
+w:Enterprise application integration
+w:Customer relationship management
+x:Enterprise resource planning
+w:Centralized process planning
+q:The primary purpose of an ERP system is ________.
+x:integration
+w:duplication
+w:process exploitation
+w:customization
+w:customer acquisition
+q:Which company is considered the gold standard as an ERP vendor?
+w:Infor ERP
+w:Epicor
+w:Microsoft
+x:SAP
+w:Oracle
+q:Which of the following conditions exists when data are isolated in separated information systems?
+w:data segregation
+x:information silo
+w:data branching
+w:encapsulation
+w:information overload
+q:________ is the activity of altering existing and designing new business processes to take advantage of new information systems.
+w:Process innovation planning
+w:Business process outsourcing
+w:Enterprise resource planning
+x:Business process reengineering
+w:Business process modeling

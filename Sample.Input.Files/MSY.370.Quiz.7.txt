@@ -1,0 +1,60 @@
+q:All of the following are characteristics of an effective collaborator except ________.
+w:is willing to enter difficult conversations
+w:is known for following through on commitments
+w:is curious
+x:is a popular leader
+w:is open-minded 
+q:All of the following are considered collaboration programs except ________.
+w:Google Docs
+w:text messaging
+w:email
+w:OneDrive
+x:Microsoft Word
+q:All of the following are examples of project metadata except ________.
+w:budgets
+w:managerial data
+w:tasks
+x:hardware serial numbers
+w:schedules
+q:Constructive criticism is both ________ advice given to improve an outcome.
+w:timely and favorable
+w:effective and negative
+x:positive and negative
+w:unconstructive and negative
+w:positive and collaborative
+q:One aspect of team satisfaction is ________.
+w:loyalty to the team manager
+x:camaraderie
+w:team growth
+w:efficiency
+w:a high salary
+q:What is a key to making team progress?
+w:Team comradery.
+x:Keeping a current task list.
+w:Using version management software.
+w:Using test plans.
+w:Workflow control.
+q:What is the most important task for a problem-solving collaborative group?
+w:Breaking the problem down into pieces
+w:Making decisions
+w:Deciding if the problem is structured or unstructured
+x:Defining the problem
+w:Solving the problem
+q:Which of the following is vitally important to a meaningful work experience?
+w:Having a successful outcome
+x:Recognizing individuals for their contribution to the team.
+w:Teaching other team members tasks.
+w:Shortening the learning curve for new activities.
+w:Promotion opportunities.
+q:________ is a necessary task in keeping the team informed because team membership can change.
+x:Keeping documentation
+w:Goal setting
+w:A daily newsletter
+w:Frequent team members
+w:Micromanagement
+q:________ track(s) changes to documents and provide features and functions to accommodate concurrent work.
+w:Sharing content
+w:Using a file server will
+x:Version management
+w:Microsoft Word
+w:Version control

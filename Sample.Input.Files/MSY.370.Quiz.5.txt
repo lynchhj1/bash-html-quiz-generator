@@ -1,0 +1,60 @@
+q:A database is used instead of a spreadsheet when ________.
+x:lists involve data with multiple themes
+w:lists of data involve a single theme
+w:structures of data lists are simple
+w:users have a small amount of data to store
+w:users do not want to store all data in one place
+q:A ________ is a collection of forms, reports, queries, and programs that serves as an intermediary between users and database data.
+w:database design
+x:database application
+w:data field
+w:data model
+w:data bridge
+q:A primary key in a database is a ________.
+w:group of fields or columns that represent metadata
+x:column or group of columns that identifies a unique row in a table
+w:group of rows that identifies a unique table or file
+w:group of records that identifies similar attribute
+w:group of tables or files formed to identify a unique field or row
+q:Columns that are keys to different tables than the ones in which they reside are called ________.
+w:nonlocal keys
+w:primary keys
+w:internal records
+x:foreign keys
+w:attributes
+q:In an E-R diagram, a line between two entities represents a(n) ________.
+w:cardinality
+x:relationship
+w:attribute
+w:identifier
+w:branch
+q:Maria creates a relational database to keep track of cars in her repair shop. She stores information about each car in the "vehicle" table, and creates a column labeled "vehicle_ID" where she stores the vehicle VIN number. The "vehicle_ID" column is referred to as a ________.
+w:foreign key
+w:functionally dependent record
+w:key attribute
+x:primary key
+w:secondary key
+q:The columns in a database are also called ________.
+w:records
+w:tables
+w:files
+w:verticals
+x:fields
+q:A group of similar rows or records is known as ________.
+w:a field
+w:a cluster
+x:a table
+w:a prototype
+w:an attribute
+q:The rows in a database are also called ________.
+w:fields
+w:files
+w:laterals
+w:tables
+x:records
+q:Identify the first step in transforming a data model into a relational database design.
+w:representing the entity relationships
+w:creating foreign keys
+x:creating a table for each entity
+w:creating data triggers for export
+w:normalizing the data and files

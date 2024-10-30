@@ -1,0 +1,92 @@
+As a consumer allocates income between Good A and Good B, total utility is maximized when _____
+-a. 	the marginal utility of Good A/the price of Good A = the marginal utility of Good B/the price of Good B.
+b. 	the marginal utility of Good A = the marginal utility of Good B = 0.
+c. 	the marginal utility of Good A/the price of Good A = the marginal utility of Good B/the price of Good B = 0.
+d. 	the price of Good A = the price of Good B.
+e. 	the marginal utility of Good A = the marginal utility of Good B.
+Marginal utility is the _____
+a. 	additional cost of purchasing one more unit of a good.
+b. 	average satisfaction obtained from consuming a good.
+c. 	increase in satisfaction that results from reducing the consumption of a good by one percent.
+d. 	overall satisfaction obtained from consuming a good.
+-e. 	additional satisfaction obtained from consuming one more unit of a good.
+Table 6.6
+
+Refer to Table 6.6, which shows John’s total utility derived from billiards and bowling games. Assume John has $30 to spend on a game of billiards and/or a game of bowling. A game of billiards costs him $4, and a game of bowling costs him $2. Which of the following is John’s utility-maximizing combination of the games of billiards and the games of bowling?
+a. 	twelve games of bowling
+-b. 	five games of billiards and five games of bowling
+w:c. 	four games of billiards and four games of bowling
+w:d. 	five games of billiards and two games of bowling
+w:e. 	three games of billiards and eight games of bowling
+A consumer’s utility is maximized when the marginal utilities derived from additional units of goods _____
+a. 	are equal to the total utilities derived from consumption.
+b. 	are maximized.
+c. 	are less than their market prices.
+-d. 	are exactly proportional to their market prices.
+e. 	are equal to the opportunity costs of producing additional units of goods.
+Utility is _____
+a. 	the difference in the total satisfaction derived from the consumption of any two products.
+b. 	the addition to total satisfaction resulting from an additional unit of consumption.
+-c. 	the sense of pleasure or satisfaction derived from consuming goods and services.
+d. 	the ratio of the units of a good consumed to its price.
+e. 	objectively measured and compared across individuals.
+
+Table 6.2
+
+Refer to Table 6.2, which shows the total utility derived from the consumption of a good. The first column of the table shows the number of units of the good consumed in a day, and the second column of the table shows the total utility derived from that consumption. What is the marginal utility of consuming the third unit?
+a. 	35
+-b. 	20
+c. 	30
+d. 	0
+e. 	65
+If you ordered the all-you-can-eat special, you continue to eat as long as _____
+a. 	your actual marginal utility from another bite is negative.
+w:b. 	your actual marginal utility from another bite is positive.
+c. 	your expected marginal utility from another bite is negative.
+-d. 	your expected marginal utility from another bite is positive.
+e. 	your expected marginal utility from another bite is zero.
+According to the utility theory, in "consumer equilibrium,” households have _____
+-a. 	spent their incomes in such a way that their overall satisfaction is maximized.
+b. 	spent their incomes in such a way that their marginal utility is zero for every product consumed.
+c. 	consumed as much of every commodity as they wanted.
+d. 	spent their incomes in such a way that their total utility is zero.
+e. 	spent their incomes in such a way that their marginal utility is maximized.
+Suppose the marginal utility of a unit of Good X = MUx, the marginal utility of a unit of Good Y = MUy, Px = the price of a unit of Good x, and Py = the price of a unit of Good Y. If MUx/Px > MUy/Py, the consumer can increase utility by buying more of Good X.
+-True
+False
+When total utility is maximized, marginal utility is _____
+a. 	negative.
+b. 	at its maximum.
+-c. 	zero.
+d. 	positive.
+e. 	infinite.
+If a good is offered free of charge, one would _____
+a. 	never consume it because it has no market value.
+-b. 	stop consuming it when its marginal utility has declined to zero.
+c. 	stop consuming it when its marginal utility begins to fall.
+d. 	stop consuming it when its marginal utility begins to increase.
+e. 	never stop consuming it.
+Diminishing marginal utility means that _____
+a. 	as one consumes more of a good, other things constant, the total satisfaction obtained from consuming the good tends to fall.
+b. 	as one hires more labor, other things constant, the total amount of output produced begins to fall.
+-c. 	as one consumes more of a good, other things constant, the additional satisfaction obtained from each additional unit of the good tends to fall.
+d. 	as one consumes more of a good, other things constant, the extra satisfaction obtained from each extra good becomes negative.
+e. 	as one hires more units of labor, other things constant, the marginal product of labor begins to fall.
+"The second glass of Evian water was very good. May I have another?" Which of the following is necessarily true of this statement?
+a. 	The marginal utility of the second glass of water was negative.
+b. 	The marginal utility of the first glass of water was zero.
+-c. 	The marginal utility of the second glass of water was positive.
+d. 	The water is available free of cost.
+e. 	The marginal utility of the third glass of water will be negative.
+Annie reallocates her budget until the ratios of marginal utilities of goods equal the ratios of their prices. Which of the following is true of Annie’s behavior?
+a. 	She adjusts her baskets of goods until marginal utilities of all goods become negative.
+b. 	She ensures that her marginal utility from each good is less than that good’s marginal cost. 
+c. 	She ensures that her expected marginal utilities from goods are equal to zero.
+-d. 	She maximizes her total utility derived from the consumption of goods.
+e. 	She maximizes her marginal utilities from goods and minimizes her disutility from consumption.
+If marginal utility is positive, then total utility is _____
+-a. 	increasing.
+b. 	constant.
+c. 	decreasing.
+d. 	negative.
+e. 	zero.

@@ -1,0 +1,78 @@
+q:What happens to consumer surplus when a new technology reduces the cost of production (Hint: supply change will make equilibrium price change)?
+x:The consumer surplus will increase
+w:The consumer surplus will decrease.
+w:The consumer surplus will stay the same.
+w:None of them is correct.
+q:Asymmetric information exists when both sides of a market approach perfect information.
+w:True
+x:False
+q:Consumer surplus is _____
+w:the horizontal sum of the individual demand curves for all consumers in a market.
+w:the amount by which quantity demanded exceeds quantity supplied at the current market price.
+w:the change in total utility derived from a one-unit change in the consumption of a good.
+x:the difference between the maximum price consumers are willing to pay and the amount they actually pay.
+w:the amount by which quantity supplied exceeds quantity demanded at the current market price.
+q:Consider the market shown in the above graph. Compute the consumer surplus.
+i:ch4.q4.png
+w:90
+x:45
+w:60
+w:30
+q:Consider the market shown in the above graph. Compute the producer surplus.
+i:ch4.q4.png
+w:90
+w:45
+w:60
+x:30
+q:A public good, such as a community's emergency warning sirens, typically _____
+w:imposes benefits on only a few individuals but imposes costs on many people.
+w:imposes both benefits and costs on relatively few individuals.
+w:imposes benefits on many individuals but imposes costs on relatively few people.
+x:imposes both benefits and costs on many individuals.
+w:imposes costs on individuals only when logrolling is prevalent in the government.
+q:Public goods are _____
+w:rival and nonexclusive.
+w:rival and exclusive.
+w:exclusive and nonrival.
+w:nonrival and exclusive.
+x:nonrival and nonexclusive.
+q:If the consumption of education creates a positive externality, then to increase efficiency relative to the outcome determined by private decisions, _____
+w:the same amount of education must be produced and the price should be lower.
+w:less education must be produced and the price should be higher.
+w:less education must be produced and the price should be lower.
+x:more public education should be produced.
+w:less education must be produced at the same price.
+q:The asymmetric information problem arises when _____
+w:the marginal cost curve for information becomes horizontal.
+w:the demand for the good will be price inelastic.
+w:the marginal benefit of search curve becomes vertical.
+w:the problem of the winner's curse occurs.
+x:one side of the market has more information than the other side.
+q:Suppose a market is in equilibrium. If a price floor is set in this market below the equilibrium price, it is likely that _____
+w:a surplus will arise.
+w:quantity demanded will increase.
+w:quantity sold will rise.
+w:a shortage will arise.
+x:the market will remain in equilibrium.
+q:The Exhibit given below depicts the milk market. The horizontal line, P, represents a price ceiling imposed by the government. Which of the following is true?
+i:ch4.q11.jpg
+w:There is a surplus when the price per gallon is $1.
+w:The quantity demanded at the price ceiling will equal the quantity produced.
+w:The equilibrium price would be $1 per unit without the price ceiling.
+w:In equilibrium, the quantity demanded is 800 gallons.
+x:The quantity supplied at the price ceiling is 500 gallons.
+q:Dale is willing to pay $300 for a pair of rollerblades, and he purchases them on sale for $200. His consumer surplus is valued at _____
+x:$100.00.
+w:$1.50.
+w:$300.00.
+w:$200.00.
+w:$0.
+q:A price ceiling set above the equilibrium price of a good will result in a shortage.
+w:True
+x:False
+q:Which of the following creates a positive externality?
+w:a car that emits carbon monoxide
+x:a neighbor who beautifies her lawn
+w:a paper mill that pollutes a river
+w:a stock market crash
+w:a person who smokes in a public place

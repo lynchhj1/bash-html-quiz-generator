@@ -1,0 +1,60 @@
+q:A ________ is a formatted message that passes through networks.
+w:package
+w:SLACC
+w:codec
+x:packet
+w:protocol
+q:A ________ is a set of rules and data structures for organizing communication.
+w:codec
+w:packet
+x:protocol
+w:cloud
+w:syntax
+q:A ________ is a worldwide-unique term that is affiliated with a public IP address.
+w:hyperlink
+x:domain name
+w:URL
+w:packet
+w:DNF
+q:A computer ________ is a collection of computers that communicate with one another over transmission lines or wirelessly.
+w:server
+w:application
+w:processor
+w:database
+x:network
+q:A(n) ________ is a number that identifies a particular device.
+w:hyperlink
+x:IP address
+w:NIP
+w:domain
+w:WSDL
+q:All of the following are negatives of cloud computing except ________.
+w:loss of control
+w:no control over prices
+x:having a disaster recovery plan
+w:dependency on a vendor
+w:the company has to rely on vender management
+q:Identify a characteristic that is a disadvantage of cloud-based hosting.
+w:significant capital required
+w:ongoing support costs
+w:increased management requirements
+x:loss of control over data location
+w:significant development effort
+q:Where does the cloud reside?
+w:at the local TELCO
+x:in the Internet
+w:on a PC
+w:inside the browser
+w:underground
+q:Which of the following features distinguishes a LAN from a WAN?
+x:A LAN connects computers in a single location.
+w:A WAN has low bandwidth.
+w:A LAN is bigger than a WAN.
+w:A WAN has a limit on the number of users.
+w:A LAN has stringent hardware requirements.
+q:________ are large-scale high-speed centralized computers, used for internal corporate data processing needs.
+w:Hosts
+w:Clients
+w:NAS
+x:Mainframes
+w:Thin clients

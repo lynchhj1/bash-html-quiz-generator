@@ -1,0 +1,102 @@
+q:A firm’s economic profit is equal to _____
+x:accounting profit minus implicit costs.
+w:total revenue plus accounting profit.
+w:total revenue plus opportunity costs.
+w:total revenue minus accounting profit.
+w:total revenue minus explicit costs.
+q:Exhibit 7.1
+i:eco.101.ch7.p1.1.jpeg
+l:Refer to Exhibit 7.1 which shows the total product and marginal product produced by a firm. After seven workers, _____
+w:marginal product is falling but still positive, and total product increases by decreasing amounts.
+x:marginal product is negative and total product is falling.
+w:marginal product is negative and total product is rising.
+w:marginal product is rising and total product increases by increasing amounts.
+w:marginal product equals zero and total product is at a maximum.
+q:Exhibit 7.1
+i:eco.101.ch7.p1.1.jpeg
+l:Refer to Exhibit 7.1, which shows the total product and marginal product produced by a firm. Between zero and three workers, _____
+w:marginal product is falling but still positive, and total product increases by decreasing amounts.
+w:marginal product equals zero and total product is at a maximum.
+w:marginal product is negative and total product is rising.
+x:marginal product is rising and total product increases by increasing amounts.
+w:marginal product is negative and total product is falling.
+q:Fixed costs are defined as _____
+w:the additional costs of the last unit produced.
+w:the total costs of a firm's production.
+w:costs that increase proportionately as the quantity produced increases.
+x:costs that do not vary as quantity produced increases.
+w:implicit costs only.
+q:A young chef is considering opening his own sushi bar. To do so, he would have to quit his current job, which pays $20,000 a year, and move into a storage building that he owns and currently rents to his brother for $6,000 a year. His estimated expenses at the sushi bar would be $50,000 for food and $2,000 for gas and electricity. The chef’s implicit costs are equal to _____.
+w:$78,000
+w:$66,000
+x:$26,000
+w:$72,000
+w:$52,000
+q:Maryann and Don want to open their own deli. To do so, Maryann must give up her job, where she earns $20,000 per year, and Don must give up his part-time job, where he earns $10,000 per year. They must liquidate their money market fund, which earns $1,000 in interest annually. The rent on the building is $10,000 per year, and the expenses of necessities such as utilities, corned beef, and pickles are $35,000 annually. _____ is the explicit cost per year of operating the deli.
+w:$10,000
+w:$31,000
+w:$35,000
+x:$45,000
+w:$76,000
+q:Exhibit 7.1
+i:eco.101.ch7.p1.1.jpeg
+l:Refer to Exhibit 7.1, which shows the total product and marginal product produced by a firm. Between three and seven workers, _____
+w:marginal product is negative and total product is rising.
+w:marginal product equals zero and total product is at a maximum.
+w:marginal product is rising and total product increases by increasing amounts.
+x:marginal product is falling but still positive, and total product increases by decreasing amounts.
+w:marginal product is negative and total product is falling.
+q:Table 7.2
+i:eco.101.ch7.p1.2.png
+l:Refer to Table 7.2, which shows labor and the quantity of shoes produced by a firm. What is the marginal product of the third unit of labor?
+x:25 pairs of shoes
+w:50 pairs of shoes
+w:75 pairs of shoes
+w:45 pairs of shoes
+w:15 pairs of shoes
+q:Amanda, aged 6, opens a lemonade stand. She makes all the lemonade from a mix she found in her parents' pantry. Her stand is an old box she found in the garage. The pitcher and paper cups were taken from the kitchen. Which of the following is true?
+w:The only opportunity cost of the lemonade is Amanda's time.
+w:The opportunity cost of the lemonade is zero.
+w:Whatever revenue Amanda gets will be pure economic profit.
+w:The implicit costs of Amanda's lemonade are zero.
+x:Amanda's explicit costs are zero.
+q:Exhibit 7.1
+i:eco.101.ch7.p1.1.jpeg
+l:Refer to Exhibit 7.1, which shows the total product and marginal product produced by a firm. At seven workers, _____
+w:marginal product is negative and total product is falling.
+w:marginal product is negative and total product is rising.
+w:marginal product is falling but still positive, and total product increases by decreasing amounts.
+w:marginal product is rising and total product increases by increasing amounts.
+x:marginal product equals zero and total product is at a maximum.
+q:A firm earns normal profit _____
+w:when accounting profit is less than implicit costs.
+w:when explicit costs equal implicit costs.
+w:when accounting profit equals explicit costs.
+w:when economic profit equals explicit costs.
+x:when economic profit equals implicit costs.
+q:The marginal product of labor is the _____
+w:change in revenue from using one more unit of labor.
+w:average output per worker.
+w:change in revenue from selling one more unit of output.
+x:change in output from using one more unit of labor.
+w:cost of one worker.
+q:If a firm has explicit costs of $100,000 and implicit costs of $30,000, and generates $150,000 in revenue, then its accounting profit is _____
+w:$130,000.
+x:$50,000.
+w:$30,000.
+w:$20,000.
+w:$100,000.
+q:A young chef is considering opening his own sushi bar. To do so, he would have to quit his current job, which pays $20,000 a year, and move into a building that he owns and currently rents to his brother for $6,000 a year. His estimated expenses at the sushi bar would be $50,000 for food and $2,000 for gas and electricity. The chef’s explicit costs are equal to _____
+x:$52,000.
+w:$26,000.
+w:$72,000.
+w:$66,000.
+w:$78,000.
+q:Table 7.2
+i:eco.101.ch7.p1.2.png
+l:Refer to Table 7.2, which shows labor and the quantity of shoes produced by a firm. At which point do diminishing marginal returns set in?
+x:between the second and third units of labor
+w:between the fourth and fifth units of labor
+w:between the third and fourth units of labor
+w:before the first unit of labor
+w:between the first and second units of labor

@@ -1,0 +1,91 @@
+q:Demand is more elastic _____
+w:for necessities than for luxuries.
+w:for goods with no substitutes.
+w:for broadly defined goods than for narrowly defined ones.
+w:in the short run than in the long run.
+x:for goods with many substitutes than for goods with only a few.
+q:Which of the following does not determine a good's price elasticity of demand?
+w:the number of substitutes available for the good
+w:the more of a luxury a particular good there is
+w:the time interval considered
+w:expenditure on the good as a percentage of the total consumer budget
+x:the slope of the demand curve
+q:If the price elasticity of supply in the kiwi fruit industry equals 1, supply is _____
+w:perfectly elastic.
+x:unit elastic.
+w:relatively inelastic.
+w:perfectly inelastic.
+w:relatively elastic.
+q:A 10 percent increase in the price of root beer causes a 5 percent increase in the quantity demanded of orange soda. This means that _____
+x:root beer and orange soda are substitutes.
+w:the cross-price elasticity of demand is equto 2.
+w:the cross-price elasticity of demand is equto −2.
+w:the cross-price elasticity of demand is 1.
+w:root beer and orange soda are complements.
+q:A 5 percent increase in income leads to a 10 percent increase in the quantity demanded for a service. This service is a(n) _____ good, and the demand is _____.
+w:normal; inelastic
+x:normal; elastic
+w:inferior; elastic
+w:inferior; inelastic
+w:normal; unit elastic
+q:If an increase in price from $1 to $2 per unit leads to an increase in quantity supplied from 20 to 100 units, then the value of the price elasticity of supply is _____
+w:0.38.
+w:8.
+w:4.
+x:2.
+w:2.67.
+q:Cross-price elasticity measures the responsiveness of the price of Good A to a change in the price of Good B.
+w:True
+x:False
+q:Which of the following statements is false?
+x:A linear demand curve with a slope of −4 is a constant-elasticity demand curve.
+w:Total revenue increases along a unit-elastic demand curve.
+w:The elasticity value for a perfectly elastic demand curve is zero.
+w:A perfectly inelastic demand curve is a constant-elasticity demand curve.
+w:A perfectly elastic demand curve is a constant-elasticity demand curve.
+q:If supply is perfectly elastic, the supply curve is _____
+w:upward sloping.
+w:u-shaped.
+w:vertical.
+x:horizontal.
+w:downward sloping.
+q:Exhibit 5.3
+i:
+l:Refer to Exhibit 5.3, which shows a linear demand curve. Between points C and D, the elasticity of demand is ____ and demand is _____.
+w:1.89; elastic
+w:1; unit elastic
+x:0.2; inelastic
+w:1; perfectly inelastic
+w:infinity; perfectly elastic
+q:If city officials expect that an increase in bus fares will raise mass transit revenues, they must think that the demand for bus travel is _____
+w:upward-sloping.
+x:inelastic.
+w:perfectly elastic.
+w:unit elastic.
+w:elastic.
+q:If a price reduction leads to an increase in total revenue, demand is _____
+w:perfectly elastic.
+w:unit elastic.
+w:perfectly inelastic.
+w:inelastic.
+x:elastic.
+q:A perfectly elastic demand curve is _____
+w:a downward-sloping straight line.
+w:upward-sloping straight line.
+x: a horizontal straight line.
+w:a vertical straight line.
+w:u-shaped.
+q:Exhibit 5.5
+i:
+l:Refer to Exhibit 5.5, which shows the total revenue curve for a firm. Which of the following statements is true in the range of the total revenue curve labeled B?
+x:Demand is inelastic.
+w:Demand is perfectly elastic.
+w:Demand is perfectly inelastic.
+w:Demand is unit elastic.
+w:Demand is elastic.
+q:Elasticity measures _____
+w:the profitability of investment in an industry.
+w:the ability of a firm to introduce new products.
+w:the strength of an economy's tendency to recover from recession.
+w:the long-run price trends in an economy.
+x:the responsiveness of decision makers to changes in price, income, and other variables.
